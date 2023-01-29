@@ -1,0 +1,9 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container h1{
+  color: rgb(86, 143, 0);
+    
+}
